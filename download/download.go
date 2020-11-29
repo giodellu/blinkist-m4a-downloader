@@ -14,8 +14,8 @@ import (
 
 // variables
 var (
-	email    = "XXXX" // !!! change to your e-mail address
-	password = "XXXX" // !!! enter your password here
+	email    = "mentedisuccessoo@gmail.com" // !!! change to your e-mail address
+	password = "*iZ5-,cuYX8,Fy%" // !!! enter your password here
 )
 
 func main() {
