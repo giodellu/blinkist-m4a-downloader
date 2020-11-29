@@ -13,8 +13,8 @@ import (
 // variables
 var baseURL = "https://www.blinkist.com"
 var filename = "books_urls.txt"
-var username = "xxxxx@xxxxxx.xx" // !!! change to your e-mail address
-var password = "xxxxxxx"         // !!! enter your password here
+var username = "mentedisuccessoo@gmail.com" // !!! change to your e-mail address
+var password = "*iZ5-,cuYX8,Fy%"         // !!! enter your password here
 
 func check(e error) {
 	if e != nil {
